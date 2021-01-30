@@ -1,0 +1,27 @@
+.image{
+  position: relative;
+  height: 550px;
+  overflow: hidden;
+  background: url(mm_invites_web.jpg) no-repeat center;
+  background-size: cover;
+}
+.text-container{
+  text-align: center;
+  margin-top: 300px;
+}
+.picture-container{
+  margin: 5%;
+  position: relative;
+  height: 550px;
+  overflow: hidden;
+  background: url(3402-r1.jpg);
+  background-size: cover;
+margin-top: 150px;
+}
+.findme{
+  position: relative;
+  height: 140px;
+  overflow: hidden;
+  background: url(findmehere.png) no-repeat center;
+  margin: 5%;
+}
